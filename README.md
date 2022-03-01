@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan
+- 👋 Hi, I’m Kipski21
 - 👀 I’m interested in Online games
 - 🌱 I’m currently learning Software Developement
 - 💞️ I’m looking to collaborate on ...
